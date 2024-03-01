@@ -4,7 +4,7 @@ from typing import Any, Optional
 
 from dsp.modules.lm import LM
 
-class GentaLM(LM):
+class GentaLLM(LM):
     """Integration to call models hosted in Genta platform.
 
     Args:
