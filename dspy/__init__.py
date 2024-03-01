@@ -30,6 +30,7 @@ HFClientVLLM = HFClientVLLM
 
 Anyscale = dsp.Anyscale
 Together = dsp.Together
+Genta = dsp.Genta
 HFModel = dsp.HFModel
 OllamaLocal = dsp.OllamaLocal
 Bedrock = dsp.Bedrock
