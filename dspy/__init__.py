@@ -23,6 +23,7 @@ Cohere = dsp.Cohere
 ColBERTv2 = dsp.ColBERTv2
 Pyserini = dsp.PyseriniRetriever
 Clarifai = dsp.ClarifaiLLM
+Genta = dsp.GentaLLM
 Google = dsp.Google
 
 HFClientTGI = dsp.HFClientTGI
@@ -30,7 +31,6 @@ HFClientVLLM = HFClientVLLM
 
 Anyscale = dsp.Anyscale
 Together = dsp.Together
-Genta = dsp.Genta
 HFModel = dsp.HFModel
 OllamaLocal = dsp.OllamaLocal
 Bedrock = dsp.Bedrock
