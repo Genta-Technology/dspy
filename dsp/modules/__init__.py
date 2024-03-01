@@ -12,6 +12,7 @@ from .ollama import *
 from .clarifai import *
 from .bedrock import *
 from .google import *
+from .genta import *
 
 
 from .hf_client import HFClientTGI
